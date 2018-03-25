@@ -6,6 +6,8 @@ Mini Github With React, GraphQL, API Github &amp; React Sematic UI
 git clone https://github.com/randyviandaputra/react-graphql.git
 cd react-graphql
 yarn install
+create a token on https://github.com/settings/tokens
+copy token to index.js
 yarn start
 ```
 
