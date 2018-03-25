@@ -29,9 +29,9 @@ class App extends Component {
                           </span>
                         </Card.Meta>
                         <Feed>
-                          Contibutor : {repo.node.collaborators.edges.map(
-                            contibutor => (
-                              <a key={contibutor.node.id}>{contibutor.node.name}</a>
+                          Contributor : {repo.node.collaborators.edges.map(
+                            contributor => (
+                              <a key={contributor.node.id}>{contibutor.node.name}</a>
                             )
                           ).reduce((prev, curr) => [prev, ', ', curr])}
                         </Feed>
