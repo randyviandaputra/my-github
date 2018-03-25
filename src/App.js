@@ -7,8 +7,6 @@ import "./App.css";
 
 class App extends Component {
   render() {
-    console.log(this.props.data);
-
     return (
       <Container text textAlign="left">
         <Card centered fluid>
