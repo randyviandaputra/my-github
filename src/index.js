@@ -9,7 +9,7 @@ import "./index.css";
 import App from "./App";
 import registerServiceWorker from "./registerServiceWorker";
 
-const GITHUB_PERSONAL_TOKEN = '7ecd0463ee1652d05cfbca5fb1dc036c09dc857c';
+const GITHUB_PERSONAL_TOKEN = '65120ad52f0f512bb1a4de011e176ff47bcb144f';
 
 const client = new ApolloClient({
   link: new HttpLink({
