@@ -15,7 +15,7 @@ May be useful
 ## Interested some projects with me
 Contact Me :
 - Email : modulloe@gmail.com
-- Istagram : @randy.vp
+- Instagram : @randy.vp
 - LinkedIn : Randy Vianda Putra
 
 ## License
