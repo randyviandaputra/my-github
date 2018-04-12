@@ -1,4 +1,4 @@
-# React GraphQL
+# My Github
 Mini Github With React, GraphQL, API Github &amp; React Sematic UI
 
 ## How To Install
